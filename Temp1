@@ -1,38 +1,43 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="TEMPORADA 1",01
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="",01
 https://archive.org/download/01x-12-tucartoonlatinofull.blogspot.com_202407/01x01%20%5Btucartoonlatinofull.blogspot.com%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="TEMPORADA 1",02
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="",02
 https://archive.org/download/01x-12-tucartoonlatinofull.blogspot.com_202407/01x02%20%5Btucartoonlatinofull.blogspot.com%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="TEMPORADA 1",03
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="",03
 https://archive.org/download/01x-12-tucartoonlatinofull.blogspot.com_202407/01x03%20%5Btucartoonlatinofull.blogspot.com%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="TEMPORADA 1",04
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="",04
 https://archive.org/download/01x-12-tucartoonlatinofull.blogspot.com_202407/01x04%20%5Btucartoonlatinofull.blogspot.com%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="TEMPORADA 1",05
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="",05
 https://archive.org/download/01x-12-tucartoonlatinofull.blogspot.com_202407/01x05%20%5Btucartoonlatinofull.blogspot.com%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="TEMPORADA 1",06
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="",06
 https://archive.org/download/01x-12-tucartoonlatinofull.blogspot.com_202407/01x06%20%5Btucartoonlatinofull.blogspot.com%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="TEMPORADA 1",07
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="",07
 https://archive.org/download/01x-12-tucartoonlatinofull.blogspot.com_202407/01x07%20%5Btucartoonlatinofull.blogspot.com%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="TEMPORADA 1",08
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="",08
 https://archive.org/download/01x-12-tucartoonlatinofull.blogspot.com_202407/01x08%20%5Btucartoonlatinofull.blogspot.com%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="TEMPORADA 1",09
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="",09
 https://archive.org/download/01x-12-tucartoonlatinofull.blogspot.com_202407/01x09%20%5Btucartoonlatinofull.blogspot.com%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="TEMPORADA 1",10
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="",10
 https://archive.org/download/01x-12-tucartoonlatinofull.blogspot.com_202407/01x10%20%5Btucartoonlatinofull.blogspot.com%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="TEMPORADA 1",11
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="",11
 https://archive.org/download/01x-12-tucartoonlatinofull.blogspot.com_202407/01x11%20%5Btucartoonlatinofull.blogspot.com%5D.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="TEMPORADA 1",12
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="",12
 https://archive.org/download/01x-12-tucartoonlatinofull.blogspot.com_202407/01x12%20%5Btucartoonlatinofull.blogspot.com%5D.mp4
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PNjc5nR/th.jpg"group-title="",13
+https://archive.org/download/01x-12-tucartoonlatinofull.blogspot.com_202407/01x13%20%5Btucartoonlatinofull.blogspot.com%5D.mp4
+
