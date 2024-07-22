@@ -1,21 +1,503 @@
-#EXTM3U
-#EXTINF:-1 group-title="Los Simpson"
+ogo="https://artworks.thetvdb.com/banners/episodes/71663/55748.jpg",Refugio Helter
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x05%20Un%20Nuevo%20Hogar.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55749.jpg",El detective del gran piojo
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x06%20El%20Gran%20Detective%20Criminal.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55750.jpg",Special Edna (también conocida como Love and Marking)
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x07%20Edna%20Especial.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55751.jpg",El papá que sabía muy poco
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x08%20El%20Padre%20Que%20Sabia%20Muy%20Poco.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55752.jpg",Fuertes brazos de la M
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x09%20Los%20Brazos%20Fuertes%20de%20Mama.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55753.jpg",Reza cualquier cosa
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x10%20Pide%20Cualquier%20Cosa.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55754.jpg",Barting Over
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x11%20Emancipacion.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55755.jpg",Estoy deletreando tan rápido como puedo
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x12%20La%20Encrucijada%20de%20Lisa.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55756.jpg",Ha nacido de nuevo una estrella
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x13%20Nace%20Una%20Nueva%20Estrella.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55757.jpg",Spritz va a Washington
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x14%20Krusty%20Va%20a%20Washington.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55758.jpg",CE D'oh!
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x15%20El%20Presidente.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55759.jpg",Disculpe mientras extraño el cielo
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x16%20Reencuentro%20Con%20El%20Firmamento.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55760.jpg",Tres gays del condominio
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x17%20Tres%20Gays%20En%20Un%20Condominio.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55761.jpg",Amigo, ¿dónde está mi rancho?
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x18%20Donde%20Esta%20Mi%20Rancho.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55762.jpg",Viejo vientre de Yeller
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x19%20El%20Perro%20Cobarde.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55763.jpg",Frena a mi esposa, por favor
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x20%20Detengan%20a%20Mi%20Esposa,%20Por%20Favor.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55764.jpg",El Bart de la guerra
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x21%20La%20Guerra%20De%20Bart.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55765.jpg",Moe Baby Blues
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x22%20Moe%20Se%20Convierte%20En%20Ni%C3%B1era.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wz586fV/TEMP2.jpg",Temporada 1
-https://dl.dropbox.com/s/7vpduf105vttbjw/TEMPORADA1.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wz586fV/TEMP2.jpg",Temporada 2
-https://dl.dropbox.com/s/ufvcz8x21pt99zg/TEMPORADA2.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wz586fV/TEMP2.jpg",Temporada 3
-https://dl.dropbox.com/s/4fxayx65fapf8aj/TEMPORADA3.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wz586fV/TEMP2.jpg",Temporada 4
-https://dl.dropbox.com/s/f549fuk693pekqy/TEMPORADA4.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wz586fV/TEMP2.jpg",Temporada 5
-https://dl.dropbox.com/s/dlig52o1pz63bwo/TEMPORADA5.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wz586fV/TEMP2.jpg",Temporada 6
-https://dl.dropbox.com/s/qww06418i7akaxm/TEMPORADA6.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wz586fV/TEMP2.jpg",Temporada 7
-https://dl.dropbox.com/s/liygnxcok84s5ll/Temporada7.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wz586fV/TEMP2.jpg",Temporada 8
-https://dl.dropbox.com/s/dy59hcsqcssjcnc/Temporada8.m3u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wz586fV/TEMP2.jpg",Temporada 9
-https://bit.ly/3YeSQKV
+#EXTINF:-1 group-title="Temporada 15"
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55766.jpg",La casa-árbol del terror XIV
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/15x01%20La%20casita%20del%20horror%20XIV.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55767.jpg",Mi madre el ladrón de coches
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/15x02%20Mi%20madre%20la%20robacoches.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55768.jpg",El presidente llevaba perlas
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/15x03%20La%20presidenta%20usaba%20perlas.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55769.jpg",Los monólogos de Regina
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/15x04%20Los%20mon%C3%B3logos%20de%20la%20reina.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55770.jpg",El gordo y el más peludo
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/15x05%20El%20gordo%20y%20el%20peludo.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55771.jpg",Hoy soy un payaso
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/15x06%20Hoy,%20soy%20un%20payaso.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55772.jpg",Es la decimoquinta temporada
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/15x07%20La%20decimoquinta%20temporada.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55773.jpg",Marge contra solteros, personas mayores, parejas y adolescentes sin hijos y gays
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/15x08%20Marge%20contra%20los%20solteros,%20adultos%20mayores,%20parejas%20sin%20hijos,%20adolescentes%20y%20gays.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55774.jpg",Yo, (gruñido molesto) -bot
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/15x09%20Yo,%20robot.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55775.jpg",Diatriba de una ama de casa loca
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/15x10%20S%C3%A1tira%20de%20un%20ama%20de%20casa%20fastidiada.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55776.jpg",Tour por la historia de Margical
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/15x11%20El%20recorrido%20hist%C3%B3rico%20de%20Marge.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55777.jpg",Milhouse ya no vive aquí
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/15x12%20Milhouse%20ya%20no%20vive%20aqu.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55778.jpg",Inteligente y más inteligente
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/15x13%20Lista%20y%20m%C3%A1s%20lista.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55779.jpg",El Ziff que vino a cenar
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/15x14%20Artie%20Ziff%20viene%20a%20cenar.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55780.jpg",Día de los codependientes
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/15x15%20El%20da%20de%20la%20co-dependencia.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55781.jpg",El juvenil errante
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/15x16%20El%20delincuente%20errante.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55782.jpg",Mi gran boda friki
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/15x17%20El%20D%C3%ADa%20De%20Mi%20Boda.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55783.jpg",Atrápalos si puedes
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/15x18%20Atr%C3%A1palos%20si%20puedes.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55784.jpg",Simple Simpson
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/15x19%20El%20simple%20Simpson.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55785.jpg",La forma en que no éramos
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/15x20%20Nuestros%20a%C3%B1os%20infelices.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55786.jpg",Estandarte destrozado por Bart
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/15x21%20La%20Bandera%20De%20Bart.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55787.jpg",Noticias sobre fraudes
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/15x22%20Noticias%20Enga%C3%B1osas.mp4
+
+#EXTINF:-1 group-title="Temporada 16"
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55788.jpg",La casa-árbol del terror XV
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/16x01%20La%20casita%20del%20horror%20XV.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55789.jpg",Todo es justo en Oven War
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/16x02%20En%20la%20guerra%20todo%20se%20vale.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55790.jpg",Durmiendo con el enemigo
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/16x03%20Durmiendo%20con%20el%20enemigo.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55791.jpg",Ella solía ser mi chica
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/16x04%20Ella%20era%20mi%20amiga.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55792.jpg",Hombre gordo y niño
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/16x05%20El%20gordo%20y%20el%20ni%C3%B1ito.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55793.jpg",Medianoche Rx
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/16x06%20Receta%20de%20medianoche.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55794.jpg",Mommie Beerest
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/16x07%20La%20se%C3%B1orita%20cerveza.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55795.jpg",Pase del Ave María de Homer y Ned
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/16x08%20La%20jugada%20desesperada%20de%20Homero%20y%20Ned.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55796.jpg",Broma rap
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/16x09%20El%20rap%20del%20bromista.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55797.jpg",Hay algo sobre casarse
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/16x10%20El%20amor%20es%20ciego.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55798.jpg",En un día despejado no puedo ver a mi hermana
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/16x11%20Lejos%20de%20mi%20hermana.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55799.jpg",Goo Goo Gai Pan
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/16x12%20Aventura%20en%20China.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55800.jpg",Homer móvil
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/16x13%20La%20casa%20rodante%20de%20Homero.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55801.jpg",La Snitch de las Siete Cervezas
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/16x14%20El%20informante.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55802.jpg",Futuro-Drama
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/16x15%20Futurdrama.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55803.jpg",No temas al techador
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/16x16%20Ray%20El%20Contratista.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55804.jpg",El niño con el corazón roto
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/16x17%20El%20Ni%C3%B1o%20Del%20Coraz%C3%B3n%20Roto.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55805.jpg",Una estrella está rota
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/16x18%20Una%20estrellita%20estrellada.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55806.jpg",Gracias a Dios, es el día del juicio final
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/16x19%20El%20d%C3%ADa%20del%20juicio.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55807.jpg",Hogar lejos de Homer
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/16x20%20Un%20hogar%20lejos%20de%20Homero.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55808.jpg",El padre, el hijo y la santa estrella invitada
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/16x21%20El%20padre,%20el%20hijo%20y%20la%20Santa%20estrella%20invitada.mp4
+
+#EXTINF:-1 group-title="Temporada 17"
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/302862.jpg",La hoguera de los manatíes
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/17x01%20La%20hoguera%20de%20los%20Manaties.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/302863.jpg",La niña que durmió muy poco
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/17x02%20La%20nia%20que%20dormia%20muy%20poco.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/302864.jpg",Milhouse de arena y niebla
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/17x03%20Milhouse%20de%20Arena%20y%20Niebla.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/302865.jpg",Casa-árbol del terror XVI
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/17x04%20La%20Casita%20del%20Horror%20XVI.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/302866.jpg",Envenenamiento del hijo de Marge
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/17x05%20El%20Envenenamiento%20del%20Hijo%20de%20Marge.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/302867.jpg",Ver Homer Run
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/17x06%20Homero%20se%20Postula.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/302868.jpg",El último de los Red Hat Mamas
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/17x07%20Los%20Dulces%20Tomates%20Rojos.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/302869.jpg",El italiano Bob
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/17x08%20Bob%20el%20Italiano.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/302870.jpg",Historias De Navidad De Los Simpson
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/17x09%20Historia%20de%20Navidad%20de%20Los%20Simpsons.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/302871.jpg",La focha de paternidad de Homer
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/17x10%20El%20padre%20de%20Homero.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/302872.jpg",Estamos en el camino a D'ohwhere
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/17x11%20En%20el%20Camino%20a%20Ninguna%20Parte.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/302873.jpg",Mi bella dama
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/17x12%20Mi%20Bello%20Jardinero.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/302874.jpg",La historia aparentemente interminable
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/17x13%20Historia%20Aparentemente%20Sin%20Final.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/302875.jpg",Bart tiene dos mamás
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/17x14%20Bart%20Tiene%20dos%20Mamas.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/302876.jpg",Homer Simpson, esta es tu esposa
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/17x15%20Homero%20Simpson,%20esta%20es%20tu%20Esposa.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/302877.jpg",Million Dollar Abie
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/17x16%20El%20Abuelo%20del%20Millon%20de%20Dolares.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/302878.jpg",Beso beso, Bang Bangalore
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/17x17%20Adios%20a%20la%20India.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/302879.jpg",Las historias más húmedas jamás contadas
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/17x18%20Las%20historias%20mas%20mojadas%20jamas%20contadas.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/307096.jpg",Las chicas solo quieren tener sumas
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/17x19%20Las%20Chicas%20Solo%20Quieren%20Sumar.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/307097.jpg",Respecto a Margie
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/17x20%20Hablando%20de%20Marge.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/307098.jpg",El traje de mono
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/17x21%20El%20Traje%20de%20Simio.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/307099.jpg",Marge y Homer hacen una obra de teatro en pareja
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/17x22%20Juego%20de%20Parejas%20con%20Marge%20y%20Homero.mp4
+
+
+#EXTINF:-1 group-title="Temporada 18"
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/308858.jpg",El Mook, el Chef, la Esposa y su Homero
+http://ia801508.us.archive.org/5/items/18x09Mdasdascadee/18x01%20El%20ni%C3%B1o,%20el%20chef,%20la%20esposa%20y%20su%20Homero.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/308859.jpg",Jazzy y las Pussycats
+http://ia801508.us.archive.org/5/items/18x09Mdasdascadee/18x02%20-%20Jazzy%20y%20los%20Gatitos.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/308860.jpg",Por favor, Homero, no los martillees
+http://ia801508.us.archive.org/5/items/18x09Mdasdascadee/18x03%20Por%20favor%20Homero%20no%20uses%20el%20martillo.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/308861.jpg",Casa-árbol del terror XVII
+http://ia801508.us.archive.org/5/items/18x09Mdasdascadee/18x04%20La%20casita%20de%20los%20horrores%20XVII.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/308862.jpg",GI (gruñido molesto)
+http://ia801508.us.archive.org/5/items/18x09Mdasdascadee/18x05%20Homero%20en%20el%20ejercito.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/313743.jpg",Moe 'N' a Lisa
+http://ia801508.us.archive.org/5/items/18x09Mdasdascadee/18x06%20Moe%20y%20Lisa.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/313744.jpg",Helado de Margie (con el pelo azul claro)
+http://ia801508.us.archive.org/5/items/18x09Mdasdascadee/18x07%20Helado%20de%20Marge%20la%20de%20Cabello%20azul%20claro.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/313745.jpg",La pareja Haw-Hawed
+http://ia801508.us.archive.org/5/items/18x09Mdasdascadee/18x08%20Extra%C3%B1a%20Pareja.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/313746.jpg",Mata a Gil, vol. 1 y 2
+http://ia801508.us.archive.org/5/items/18x09Mdasdascadee/18x09%20Maten%20a%20Gil%20vol%C3%BAmenes%201%20y%202.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/313747.jpg",La esposa acuática
+http://ia801508.us.archive.org/5/items/18x09Mdasdascadee/18x10%20La%20Esposa%20Acu%C3%A1tica.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/313748.jpg",La venganza es un plato que se sirve tres veces
+http://ia801508.us.archive.org/5/items/18x09Mdasdascadee/18x11%20La%20venganza%20es%20un%20platillo%20que%20se%20sirve%20tres%20veces%20v2.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/313749.jpg",Niña grande
+http://ia801508.us.archive.org/5/items/18x09Mdasdascadee/18x12%20Peque%C3%B1a%20Ni%C3%B1a%20Grande.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/313750.jpg",Springfield Up
+http://ia801508.us.archive.org/5/items/18x09Mdasdascadee/18x13%20Creciendo%20en%20Springfield.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/313751.jpg",Yokel acordes
+http://ia801508.us.archive.org/5/items/18x09Mdasdascadee/18x14%20Canci%C3%B3n%20Rural.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/313752.jpg",Rome-Old y Juli-Eh
+http://ia801508.us.archive.org/5/items/18x09Mdasdascadee/18x15%20El%20viejo%20Romeo%20y%20la%20nueva%20Julieta.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/313753.jpg",Homerazzi
+http://ia601508.us.archive.org/5/items/18x09Mdasdascadee/18x16%20Homerazzi.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/313754.jpg",Marge Gamer
+http://ia601508.us.archive.org/5/items/18x09Mdasdascadee/18x17%20Juegos%20Familiares.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/319716.jpg",Los chicos de Bummer
+http://ia801508.us.archive.org/5/items/18x09Mdasdascadee/18x18%20El%20Gran%20Perdedor.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/319717.jpg",Ladrón y escalera
+http://ia601508.us.archive.org/5/items/18x09Mdasdascadee/18x19%20Pillos%20con%20Escaleras.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/319718.jpg",Detente o mi perro disparará
+http://ia801508.us.archive.org/5/items/18x09Mdasdascadee/18x20%20Para%20o%20mi%20perro%20dispara.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/324348.jpg",24 minutos
+http://ia801508.us.archive.org/5/items/18x09Mdasdascadee/18x21%2024%20minutos.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/329107.jpg",Usted, Kent, siempre dice lo que quiere
+http://ia801508.us.archive.org/5/items/18x09Mdasdascadee/18x22%20No%20siempre%20puedes%20decir%20lo%20que%20quieres.mp4
+
+#EXTINF:-1 group-title="Temporada 19"
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/335964.jpg",Le encanta volar y él D'ohs
+http://ia601506.us.archive.org/1/items/19x03Hos/19x01%20Le%20gusta%20volar%20y%20se%20nota.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/335965.jpg",El Homero de Sevilla
+http://ia801506.us.archive.org/1/items/19x03Hos/19x02%20Homero%20de%20Sevilla.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/335966.jpg",Towboy de medianoche
+http://ia801506.us.archive.org/1/items/19x03Hos/19x03%20Homero%20de%20Sevilla.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/338436.jpg",No quiero saber por qué canta el pájaro enjaulado
+http://ia801506.us.archive.org/1/items/19x03Hos/19x04%20Una%20Media%20Ma%C3%B1ana%20de%20Perros.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/341081.jpg",Casa-árbol del terror XVIII
+http://ia801506.us.archive.org/1/items/19x03Hos/19X05%20La%20Casita%20Del%20Horror%20Xviii-1.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/341082.jpg",La pequeña huérfana Millie
+http://ia801506.us.archive.org/1/items/19x03Hos/19X06%20Milito%20El%20Huerfanito-1.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/341083.jpg",Maridos y cuchillos
+http://ia801506.us.archive.org/1/items/19x03Hos/19x07%20Esposos%20y%20Bisturies.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/341084.jpg",Funeral para un demonio
+http://ia801506.us.archive.org/1/items/19x03Hos/19x08%20Funeral%20Para%20un%20Enemigo.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/343339.jpg",La luz de la luna eterna de la mente de Simpson
+http://ia801506.us.archive.org/1/items/19x03Hos/19x09%20Eterna%20Penumbra%20de%20una%20Mente%20Simpson.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/347441.jpg",Muchos Wiggum
+http://ia801506.us.archive.org/1/items/19x03Hos/19x10%20Sub.Esp%20E%20Pluribus%20Wiggum.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/350073.jpg",Ese show de los 90
+http://ia801506.us.archive.org/1/items/19x03Hos/19X11%20El%20Show%20De%20Los%20A%C3%B1os%2090.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/350075.jpg",Amor, estilo springfieldiano
+http://ia801506.us.archive.org/1/items/19x03Hos/19x12%20Amor%20al%20estilo%20de%20Springfield.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/352332.jpg",El Debarted
+http://ia601506.us.archive.org/1/items/19x03Hos/19X13%20La%20Trampa%20Para%20Bart.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/352333.jpg",Marque 'N' para Nerder
+http://ia801506.us.archive.org/1/items/19x03Hos/19x14%20Con%20N%20de%20Nerd.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/352372.jpg",Humo en la hija
+http://ia801506.us.archive.org/1/items/19x03Hos/19x15%20Humo%20Sobre%20la%20Hija.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/361350.jpg",Papa Don't Leech
+http://ia801506.us.archive.org/1/items/19x03Hos/19x16%20Papa%20No%20Traiciones.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/363978.jpg",Vaca Apocalipsis
+http://ia801506.us.archive.org/1/items/19x03Hos/19x17%20Vaca%20Apocaliptica.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/365752.jpg",Cualquier Sundance
+http://ia801506.us.archive.org/1/items/19x03Hos/19x18%20En%20El%20Festival%20de%20Zondance.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/365753.jpg",Mona deja-a
+http://ia801506.us.archive.org/1/items/19x03Hos/19X19%20La%20Herencia%20De%20Mona.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/365754.jpg",Todo sobre Lisa
+http://ia601506.us.archive.org/1/items/19x03Hos/19x20%20Todo%20sobre%20Lisa.mp4
+
+#EXTINF:-1 group-title="Temporada 20"
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/390418.jpg",Sexo, pasteles y raspaduras idiotas
+https://archive.org/download/manguera_202106/20x1.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/392135.jpg",Verizon perdido
+https://archive.org/download/manguera_202106/20x2.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/392136.jpg",Doble, doble, chico en problemas
+https://archive.org/download/manguera_202106/20x3.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/392137.jpg",Casa-árbol del terror XIX
+https://archive.org/download/manguera_202106/20x4.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/404890.jpg",Curvas peligrosas
+https://archive.org/download/manguera_202106/20x5.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/406636.jpg",Homer y Lisa intercambian palabras cruzadas
+https://archive.org/download/manguera_202106/20x6.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/406855.jpg",Mypods y boomsticks
+https://archive.org/download/manguera_202106/20x7.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/413426.jpg",Las quemaduras y las abejas
+https://archive.org/download/manguera_202106/20x8.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/420649.jpg",Lisa la reina del drama
+https://archive.org/download/manguera_202106/20x9.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/420648.jpg",Toma mi vida, por favo
+https://archive.org/download/manguera_202106/20x10.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/420650.jpg",Cómo se ganó la prueba
+https://archive.org/download/manguera_202106/20x11.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/420651.jpg",Sin préstamo de nuevo, naturalmente
+https://archive.org/download/manguera_202106/20x12.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/420652.jpg",Ido Maggie Ido
+https://archive.org/download/manguera_202106/20x13.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/420653.jpg",En el nombre del abuelo
+https://archive.org/download/manguera_202106/20x14.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/420654.jpg",Boda por desastre
+https://archive.org/download/manguera_202106/20x15.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/420655.jpg",Eeny Teeny Maya Moe
+https://archive.org/download/manguera_202106/20x16.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/420656.jpg",El bueno, el triste y el drogadicto
+https://archive.org/download/manguera_202106/20x17.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/420657.jpg",Padre sabe lo peor
+https://archive.org/download/manguera_202106/20x18.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/420658.jpg",Waverly Hills 9-0-2-1-D'oh
+https://archive.org/download/manguera_202106/20x19.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/420659.jpg",Cuatro grandes mujeres y una manicura
+https://archive.org/download/manguera_202106/20x20.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/5fbe5703b48b9.jpg",Viniendo a Homerica
+https://archive.org/download/manguera_202106/20x21.mp4
+
+#EXTINF:-1 group-title="Temporada 21"
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/420660.jpg",Homero el chismoso
+https://archive.org/download/carros_202106/21x1.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/1129231.jpg",Bart obtiene una 'Z'
+https://archive.org/download/carros_202106/21x2.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/1129241.jpg",La gran esperanza de la esposa
+https://archive.org/download/carros_202106/21x3.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/1129251.jpg",Casa-árbol del terror XX
+https://archive.org/download/carros_202106/21x4.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/1129261.jpg",El diablo viste nada
+https://archive.org/download/carros_202106/21x5.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/420661.jpg",Bromas y Verdes
+https://archive.org/download/carros_202106/21x6.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/1129271.jpg",Rednecks y palos de escoba
+https://archive.org/download/carros_202106/21x7.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/1129291.jpg",Oh hermano, ¿dónde estás Bart?
+https://archive.org/download/carros_202106/21x8.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/1129301.jpg",Jueves con Abie
+https://archive.org/download/carros_202106/21x9.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/1129281.jpg",Érase una vez en Springfield
+https://archive.org/download/carros_202106/21x10.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/1155961.jpg",Millón de dólares tal vez	
+https://archive.org/download/carros_202106/21x11.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/1618371.jpg",El chico se encuentra con el rizo
+https://archive.org/download/carros_202106/21x12.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/1654361.jpg",El color amarillo
+https://archive.org/download/carros_202106/21x13.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/1765661.jpg",Postales de la cuña
+https://archive.org/download/carros_202106/21x14.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/1793861.jpg",Robar la primera base
+https://archive.org/download/carros_202106/21x15.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/1793871.jpg",La historia más grande jamás contada
+https://archive.org/download/carros_202106/21x16.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/1922461.jpg",Historia americana X-cellent
+https://archive.org/download/carros_202106/21x17.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/1962611.jpg",Jefe de Corazones
+https://archive.org/download/carros_202106/21x18.mkv
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/1793911.jpg",El chorro y la ballena
+https://archive.org/download/carros_202106/21x19.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/1793901.jpg",Vigilar con amor
+https://archive.org/download/carros_202106/21x20.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/1793891.jpg",Moe Letter Blues
+https://archive.org/download/carros_202106/21x21.mkv
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/2052411.jpg",El Bob de al lado
+https://archive.org/download/carros_202106/21x22.mkv
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/1793881.jpg",Juzgame tiernamente
+https://archive.org/download/carros_202106/21x23.mkv
+
+
+#EXTINF:-1 group-title="Temporada 22"
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/2240091.jpg",Musical de escuela primaria
+http://ia801506.us.archive.org/1/items/19x03Hos/22x01%20El%20Musical%20de%20La%20Escuela%20Primaria.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/2845731.jpg",Préstamo a Lisa
+http://ia801506.us.archive.org/1/items/19x03Hos/22x02%20Lisa%20la%20Prestamista.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/2831711.jpg",MoneyBART
+http://ia801506.us.archive.org/1/items/19x03Hos/22x03%20Bart,%20el%20desobediente.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/2845741.jpg",La casa-árbol del terror XXI
+http://ia801506.us.archive.org/1/items/19x03Hos/22x04%20La%20Casita%20del%20Horror%20XXI.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/2845761.jpg",Lisa Simpson, esta no es tu vida
+http://ia801506.us.archive.org/1/items/19x03Hos/22x05%20Lisa%20Simpson,%20Esta%20No%20Es%20Tu%20Vida.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/2845721.jpg",El tonto monty
+http://ia801506.us.archive.org/1/items/19x03Hos/22x06%20El%20Tonto%20Monty.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/3107001.jpg",¿Qué tan Munched es ese Birdie en la ventana?
+http://ia601506.us.archive.org/1/items/19x03Hos/22x07%20Pobrecita%20Palomita.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/2845751.jpg",La lucha antes de Navidad
+http://ia801506.us.archive.org/1/items/19x03Hos/22x08%20El%20Pleito%20Antes%20de%20Navidad.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/3232031.jpg",Donnie Fatso
+http://ia601506.us.archive.org/1/items/19x03Hos/22x09%20Donnie,%20El%20Gordo.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/3286781.jpg",Mamás que me gustaría olvidar
+http://ia601506.us.archive.org/1/items/19x03Hos/22x10%20Mam%C3%A1s%20Que%20Quisiera%20Olvidar.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/2845771.jpg",Llamarada Moe
+http://ia801506.us.archive.org/1/items/19x03Hos/22x11%20El%20Closet%20de%20Moe.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/3286711.jpg",Homero el padre
+http://ia801506.us.archive.org/1/items/19x03Hos/22x12%20Homero,%20el%20padre.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/3286731.jpg",El azul y el gris
+http://ia801506.us.archive.org/1/items/19x03Hos/22x13%20Azul%20y%20Gris.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/3286771.jpg",Papá enojado: la película
+http://ia801506.us.archive.org/1/items/19x03Hos/22x14%20Pap%C3%A1%20Enojado%20La%20Pel%C3%ADcula.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/3286791.jpg",El cuento del escorpión
+http://ia801506.us.archive.org/1/items/19x03Hos/22x15%20El%20Cuento%20del%20Escorpi%C3%B3n.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/2845781.jpg",El bonito sueño de un solsticio de verano
+http://ia601506.us.archive.org/1/items/19x03Hos/22x16%20Lindos%20Sue%C3%B1os%20de%20Verano.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/3286691.jpg",El amor es una cosa estrangulada
+http://ia601506.us.archive.org/1/items/19x03Hos/22x17%20Amar%20es%20Estrangular.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/3286751.jpg",La gran simpsina
+http://ia801506.us.archive.org/1/items/19x03Hos/22x18%20La%20Gran%20Simpsina.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/3286761.jpg",Las verdaderas amas de casa de Fat Tony
+http://ia601506.us.archive.org/1/items/19x03Hos/22x19%20Las%20Verdaderas%20Esposas%20del%20Gordo%20Tony.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4086752.jpg",Homero Manostijeras
+http://ia801506.us.archive.org/1/items/19x03Hos/22x20%20Homero%20Manos%20de%20Tijera.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4089370.jpg",500 llaves
+http://ia801506.us.archive.org/1/items/19x03Hos/22x21%20500%20Llaves.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4095650.jpg",La captura de Ned-Liest
+http://ia801506.us.archive.org/1/items/19x03Hos/22x22%20El%20Atrapa%20Mentiras%20de%20Ned.mp4
+
+#EXTINF:-1 group-title="Temporada 23"
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4121028.jpg",El Halcón y el D'Ohman
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/23X01%20El%20Halcon%20Y%20El%20Hombre%20D%27oh.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4160156.jpg",Bart se detiene a oler a los Roosevelt
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/23X02%20Bart%20Se%20Detiene%20A%20Oler%20Los%20Roosevelts.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4164544.jpg",Casa-árbol del terror XXII
+http://ia601506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/23X03%20La%20Casita%20Del%20Horror%20Xxii.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4186616.jpg",Reemplazable usted
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/23X04%20Eres%20Reemplazable.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4186617.jpg",La esposa de la comida
+http://ia601506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/23X05%20La%20Esposa%20Aficionada.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4195097.jpg",El trabajo del libro
+http://ia601506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/23X06%20La%20Mision%20Del%20Libro.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4203050.jpg",El hombre de los pantalones de franela azul
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/23X07%20El%20Hombre%20De%20Los%20Pantalones%20De%20Franela%20Azul.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4204792.jpg",La solución del diez por ciento
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/23X08%20La%20Solucion%20Del%2010%20Por%20Ciento.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4203051.jpg",Vacaciones del futuro pasado
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/23X09%20Fiestas%20De%20Un%20Futuro%20Pasado.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4220304.jpg",Políticamente inepto, con Homer Simpson
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/23X10%20Politicamente%20Inepto,%20Con%20Homero%20Simpson.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4240300.jpg",La red D'oh-cial
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/23X11%20La%20Cadena%20D'oh-Cial.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4243763.jpg",Moe pasa de la pobreza a la riqueza
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/23X12%20Moe%20De%20Mendigo%20A%20Millonario.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4245847.jpg",La hija también se levanta
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/23X13%20La%20Hija%20Tambien%20Se%20Ilusiona.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4245848.jpg",En la última licencia
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/23X14%20Por%20Fin%20Se%20Van.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4245849.jpg",Salir por Kwik-E-Mart
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/23X15%20Salida%20Por%20El%20Kwik-E-Mart.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4245850.jpg",Cómo mojé a tu madre
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/23X16%20Como%20Moje%20A%20Su%20Madre.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4245851.jpg",Ellos, robot
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/23X17%20Ellos,%20Robot.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4289343.jpg",Cuidado con mi Bart tramposo
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/23X18%20Cuidado%20Con%20Bart.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4289350.jpg",Una cosa totalmente divertida que Bart nunca volverá a hacer
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/23X19%20Algo%20Muy%20Divertido%20Que%20Bart%20No%20Volvera%20A%20Hacer.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4289351.jpg",El espía que me aprendió
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/23X20%20El%20Espia%20Que%20Me%20Ense%C3%B1o.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4321753.jpg",Mezcla de Ned 'n' Edna
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/23X21%20El%20Matrimonio%20De%20Ned%20Y%20Edna.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4289352.jpg",Lisa se vuelve gaga
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/23X22%20Lisa%20Y%20Lady%20Gaga.m4v
+
+#EXTINF:-1 group-title="Temporada 24"
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4292790.jpg",Río Moonshine
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/24X01-R%C3%ADo%20De%20Aguardiente.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4377341.jpg",La casa-árbol del terror XXIII
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/24X02-La%20Casita%20Del%20Horror%20Xxiii.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4377343.jpg",Aventuras en la obtención de un bebé
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/24X03%20-%20Aventuras%20En%20La%20B%C3%BAsqueda%20De%20Un%20Beb%C3%A9.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4377342.jpg",Gone Abie Gone
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/24X04-%20Dond%C3%A9%20,%20Estas%20Abuelo.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4377340.jpg",Penny-Wiseguys
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/24X05-%20%20Los%20Mafiosos.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4377345.jpg",Un árbol crece en Springfield
+http://ia601506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/24X06-Un%20Arbol%20Crese%20En%20Springfield.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4377344.jpg",El día en que la tierra se enfrió
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/24X07-%20El%20D%C3%ADa%20Que%20La%20Tierra%20Fue%20Cool.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4377348.jpg",Cur con amor
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/24X08-A%20Mi%20Perro,%20Con%20Amor.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4377347.jpg",Homer va a la escuela preparatoria
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/24X09-%20Homero%20Ya%20Esta%20Preparado.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4377346.jpg",Una prueba antes de intentarlo
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/24X10-%20Una%20Prueba%20Antes%20De%20Intentarlo.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4377350.jpg",El cambio de guardián
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/24X11-Cambio%20De%20Tutor.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4377351.jpg",El amor es una cosa con muchas astillas
+http://ia601506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/24X12-El%20Amor%20Es%20Un%20Asunto%20Peliagudo.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4377352.jpg",Apenas Kirk-ing
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/24X13-%20Casi%20Kirk.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4377353.jpg",Magnífico abuelo
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/24X14-%20El%20Abuelo%20Glamoroso.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4377349.jpg",Black-Eyed, por favor
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/24X15-%20El%20Ojo%20Negro.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4377354.jpg",Corte del Caballero Oscuro
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/24X16-%20%20La%20Corte%20Del%20Caballero%20De%20La%20Noche.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4377355.jpg",Lo que quieren las mujeres animadas
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/24X17-%20Lo%20Que%20Quieren%20Las%20Mujeres%20Animadas.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4504895.jpg",Fricción del púlpito
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/24X18-Tiempos%20Violentos%20En%20El%20P%C3%BAlpito.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4438644.jpg",Negocio del whisky
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/24X19%20-%20El%20Negocio%20Del%20Whisky.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4444267.jpg",El fabuloso chico embaucador
+http://ia601506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/24X20%20-%20El%20Fabuloso%20Farsante.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4457940.jpg",La saga de Carl
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/24X21-%20La%20Saga%20De%20Carl.m4v
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/4457941.jpg",Peligros en un tren
+http://ia801506.us.archive.org/6/items/25X02L4C4s1t4D3lH0rr0rXx1v/24X22-%20Peligros%20En%20Un%20Tren.m4v
+
+
+
+
+
+
+
+
+
+
+.
