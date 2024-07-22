@@ -1,4 +1,627 @@
-ogo="https://artworks.thetvdb.com/banners/episodes/71663/55748.jpg",Refugio Helter
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="Temporada 1"
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/5fec717ee96de.jpg",Los Simpson asando a fuego abierto
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S01E01%20-%20Especial%20de%20Navidad.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a704703823.jpg",Bart el Genio
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S01E02%20-%20Bart%20Es%20un%20Genio.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a706cee52e.jpg",La Odisea de Homero
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S01E03%20-%20La%20Odisea%20de%20Homero.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a70914b407.jpg",No hay desgracia como el hogar
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S01E04%20-%20Unafamilia%20modelo.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a70ba768bf.jpg",Bart el General
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S01E05%20-%20Bart%20el%20General.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a70ddd20a1.jpg",Gimiendo lisa
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S01E06%20-%20La%20Depresion%20De%20Lisa.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a7105929e2.jpg",La llamada de los Simpson
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S01E07%20-%20Llamada%20De%20Los%20Simpsons.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a7127c384d.jpg",La cabeza delatora
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S01E08%20-%20El%20Heroe%20Sin%20Cabeza.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a714bd60c5.jpg",La vida en el carril rápido
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S01E09%20-%20Un%20Momento%20De%20Decision.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a717fccb53.jpg",Noche de Homero
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S01E10%20-%20La%20Correria%20De%20Homero.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a71a30484a.jpg",Las crepes de la ira
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S01E11%20-%20Intercambio%20Cultural.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a71cfa4013.jpg",Krusty consigue atrapado
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S01E12%20-%20Krusty%20va%20a%20la%20carcel.ia.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a71f08cb1a.jpg",Alguna noche encantada
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S01E13%20-%20Una%20Noche%20Encantadora.mp4
+
+#EXTINF:-1 group-title="Temporada 2"
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a894665c87.jpg",Bart obtiene una F
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S02E01%20-%20Bart_Reprueba.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a8994c59b6.jpg",Simpson y Dalila
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S02E02%20-%20simpson_y_Dalila.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a89b281fc1.jpg",la casa del Arbol de terror
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S02E03%20-%20Especial_de_Noche_de_Brujas.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a89d1c8a2c.jpg",Dos coches en cada garaje y tres ojos en cada pez
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S02E04%20-%20Dos%20Autos%20en%20Cada%20Cochera%20y%20Tres%20Ojos%20en%20Cada.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a89f7a5b6d.jpg",Homero bailando
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S02E05%20-%20Homero_el_Animador.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a8a16c7e3e.jpg",Dead Putting Society
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S02E06%20-%20La_Sociedad_de_Los_Golfistas_Muertos.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a8a38ab1da.jpg",Bart contra el Día de Acción de Gracias
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S02E07%20-%20Bart_Contra_el_D_a_de_Gracias.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a8a5d88960.jpg",Bart el Temerario
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S02E08%20-%20Bart_El_Temerario.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a8a82d995f.jpg",Pica y rasca y Marge
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S02E09%20-%20Tomi__Daly_y_Marge.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a8aa3aecb9.jpg",Bart es atropellado por un coche
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S02E10%20-%20Bart_es_Atropellado.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a8ac8e6c21.jpg",Un pez, dos peces, pez globo, pez azul
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S02E11%20-%20Aviso_de_Muerte.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a8aedc8eee.jpg",La forma en que éramos
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S02E12%20-%20Los_A_os_que_Vivimos.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a8b24d5f74.jpg",Homer contra Lisa y el octavo mandamiento
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S02E13%20-%20No_Robar_s.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a8b4d7980d.jpg",Encantador principal
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S02E14%20-%20El__ltimo_Tren.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a8b7356dcf.jpg",¿Oh, hermano, dónde estás?
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S02E15%20-%20D_nde_Est_s_Hermano_M_o.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a8b996a1b1.jpg",El perro de Bart obtiene una "F"
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S02E16%20-%20El_Perro_de_Bart_Reprueba.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a8bc0c467b.jpg",Dinero viejo
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S02E17%20-%20Nuestro_A_os_Felice.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a8be0cdc99.jpg",Cepillar con grandeza
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S02E18%20-%20Pinceles_con_Alma.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a8c018b13f.jpg",Sustituto de Lisa
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S02E19%20-%20El_Substituto_de_Lisa.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a8c26b565f.jpg",La guerra de los simpsons
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S02E20%20-%20La_Guerra_de_Los_Simpsons.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a8c49e423d.jpg",Tres hombres y un cómic
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S02E21%20-%20tres%20hombres%20y%20una%20historieta.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602a8c6c7b005.jpg",Enemistad mortal
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S02E22%20-%20sangre_nueva.mp4
+
+#EXTINF:-1 group-title="Temporada 3"
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602d558bc2cb2.jpg",Papá delirante Stark
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S03E01%20-%20Papa%20Esta%20Loco.ia.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602d55c103f4a.jpg",El Sr. Lisa va a Washington
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S03E02%20-%20Lisa_Va_A_Washington.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602d55e3d87b2.jpg",Cuando Flandes fracasó
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S03E03%20-%20El_Dia_Que_Cayo_Flanders.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602d5608c5244.jpg",Bart el asesino
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S03E04%20-%20_El_PequeQo_Padrino.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602d563586a2c.jpg",Homer definido
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S03E05%20-%20Homero_en_el_diccionario.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602d5654f094a.jpg",Como padre, como payaso
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S03E06%20-%20Del_tal_padre__tal_payaso.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602d5677b8eff.jpg",La casa-árbol del terror II
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S03E07%20-%20La_Casa_del_Arbol_del_Terror_II.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602d569da54b2.jpg",Poni de Lisa
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S03E08%20-%20El_Pony_de_Lisa.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602d56c34b3a8.jpg",Sábados de Trueno
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S03E09%20-%20Tardes_De_Trueno.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602d56e7ebf1e.jpg",Flaming Moe's
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S03E10%20-%20Llamarada_Moe.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602d570b0331d.jpg",Planta de energía de venta de quemaduras
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S03E11%20-%20Burns_Y_Los_Alemanes.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602d5739e507c.jpg",Me casé con marge
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S03E12%20-%20Me_Cas__Con_Marge.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602d575ae9413.jpg",Radio Bart
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S03E13%20-%20Bart%20y%20la%20Radio.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602d5780bdc7f.jpg",Lisa la griega
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S03E14%20-%20Los%20Pron__sticos%20de%20Lisa.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602d57ab4e5e9.jpg",Homero solo
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S03E15%20-%20Homero%20se%20Queda%20Solo.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602d57cb92249.jpg",Bart el amante
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S03E16%20-%20Bart%20El%20Amante.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602d57f881c6a.jpg",Homero en el murciélago
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S03E17%20-%20Homero%20Bateador.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602d582dae8be.jpg",Vocaciones separadas
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S03E18%20-%20Vocaciones%20Distintas.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602d585de9faf.jpg",Perro de la muerte
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S03E19%20-%20El%20perro%20de%20la%20muerte.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602d587e966f9.jpg",Coronel Homer
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S03E20%20-%20Homero%20el%20Candidato.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602d58b8a8c3a.jpg",Viudo negro
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S03E21%20-%20viudo%20negro.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602d58e0cb00f.jpg",El Show de Otto
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S03E22%20-%20El%20rock%20de%20otto.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602d59036088b.jpg",El amigo de Bart se enamora
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S03E23%20-%20Milhouse%20se%20enamora.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/602d592b9d8af.jpg",Hermano, ¿puedes ahorrar dos monedas de diez centavos?
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S03E24%20-%20El_es%20mi%20hermano.mp4
+
+#EXTINF:-1 group-title="Temporada 4"
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/603a53d9d546e.jpg",Kamp Krusty
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S04E01%20-%20Kamp_Krusty.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/603a5402495aa.jpg",Un tranvía llamado Marge
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S04E02%20-%20Streetcar_Named_Marge.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/603a5425e7379.jpg",Homero el Hereje
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S04E03%20-%20Homer_the_Heretic.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/603a54494ee1f.jpg",Lisa la Reina de Belleza
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S04E04%20-%20La_Reina_de_la_belleza.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/603a546cd232e.jpg",La casa-árbol del terror III
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S04E05%20-%20Treehouse_of_Horror_III.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/603a5492b671e.jpg",Pica y rasca: la película
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S04E06%20-%20Itchy___Scratchy_The_Movie.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/603a54c0e2edf.jpg",Marge consigue un trabajo
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S04E07%20-%20Marge_Gets_a_Job.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/603a54e082602.jpg",El chico nuevo de la cuadra
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S04E08%20-%20La_chica_nueva.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/603a54ff7cf91.jpg",Señor arado
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S04E09%20-%20Don_Barredora.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/603a551ce1f00.jpg",Primera palabra de Lisa
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S04E10%20-%20La_primera_palabra_de_Maggie.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/603a553bd3a00.jpg",Triple bypass de Homero
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S04E11%20-%20El_gran_corazSn_de_Homero.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/603a555a91236.jpg",Marge contra el monorraíl
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S04E12%20-%20Marge_contra_el_monorriel.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/603a55dfbf3c4.jpg",Elección de Selma
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S04E13%20-%20La_elecciSn_de_Selma.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/603a560806bf5.jpg",Hermano del mismo planeta
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S04E14%20-%20Hermano_mayor_hermano_menor.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/603a562cd5186.jpg",Yo amo a lisa
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S04E15%20-%20Yo_amo_a_Lisa.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/603a5652afb59.jpg",Duffless
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S04E16%20-%20La_promesa.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/603a5676a975f.jpg",Última salida a Springfield
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S04E17%20-%20Ultima_salida_a_Springfield.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/603a569e0063a.jpg",Así que ha llegado a esto: un programa de clips de los Simpson
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S04E18%20-%20A_esto_hemos_llegado.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/603a56c2c6356.jpg",El frente
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S04E19%20-%20El_intermedio.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/603a56e693991.jpg",Día de golpe
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S04E20%20-%20Whacking_Day.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/603a5714f0413.jpg",Marge encadenada
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S04E21%20-%20Marge%20en%20cadenas.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/series/71663/episodes/603a573add235.jpg",Krusty consigue kancelled
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S04E22%20-%20El%20drama%20de%20Krusty.mp4
+
+#EXTINF:-1 group-title="Temporada 5"
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55533.jpg",Cuarteto LOS BORBOTONES de Homero
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S05E01%20-%20El%20cuarteto%20de%20homero.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55534.jpg",Cape Feare
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S05E02%20-%20Cabo%20de%20miedosos.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55535.jpg",Homer va a la universidad
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S05E03%20-%20Homero%20va%20a%20la%20universidad.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55536.jpg",Capullo de rosa
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S05E04%20-%20El%20oso%20de%20burns.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55537.jpg",La casa-árbol del terror IV
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S05E05%20-%20Especial_De_Noche_De_Brujas_IV.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55538.jpg",Marge on the Lam
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S05E06%20-%20Marge_La_Rebelde.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55539.jpg",El niño interior de Bart
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S05E07%20-%20_Filosof_a_Bartiana.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55540.jpg",Boy-Scoutz 'N the Hood	
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S05E08%20-%20Boy-Scoutz_N_The_Hood.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55541.jpg",La última tentación de Homero
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S05E09%20-%20La_Ultima_Tentaci_n_De_Homero.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55542.jpg",$ pringfield (O, Cómo aprendí a dejar de preocuparme y amar el juego legalizado)
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S05E10%20-%20%20springfield%20prospero%20o%20el%20problema%20del%20juego.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55543.jpg",Homero el vigilante
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S05E11%20-%20Homer_el%20vigilante.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55544.jpg",Bart se vuelve famoso
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S05E12%20-%20Bart_se_hace_famoso.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55545.jpg",Homer y Apu
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S05E13%20-%20Homer_y_Apu.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55546.jpg",Lisa contra Malibu Stacy
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S05E14%20-%20_Lisa_vs._Malibu_Stacey.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55547.jpg",Homero del espacio profundo
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S05E15%20-%20Homero%20en%20el%20espacio%20profundo.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55548.jpg",Homero ama Flandes
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S05E16%20-%20Homero_Ama_A_Flanders.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55549.jpg",Bart consigue un elefante
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S05E17%20-%20Bart_Gana_Un_Elefante.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55550.jpg",Heredero de Burns
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S05E18%20-%20El%20heredero%20de%20burns.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55551.jpg",Canción Baadasssss de Sweet Seymour Skinner
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S05E19%20-%20La%20cancion%20de%20skinner.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55552.jpg",El niño que sabía demasiado
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S05E20%20-%20El%20ni__o%20que%20sabia%20demasiado.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55553.jpg",Amante de Lady Bouvier
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S05E21%20-%20El%20amante%20de%20Lady%20Bouvier.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55554.jpg",Secretos de un matrimonio exitoso
+https://archive.org/download/tinaco_20210510/Los%20Simpsons%20-%20S05E22%20-%20Secretos%20De%20Un%20Buen%20Matrimonio.mp4
+
+#EXTINF:-1 group-title="Temporada 6"
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55555.jpg",Bart de la oscuridad
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E01%20-%20El%20Diabolico%20Bart.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55556.jpg",Rival de Lisa
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E02%20-%20La%20Rival%20de%20Lisa.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55557.jpg",Otro programa de clips de los Simpson
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E03%20-%20Recuerdos%20de%20Amor.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55558.jpg",Tierra que pica y rasca
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E04%20-%20La%20Tierra%20de%20Tomy%20y%20Daly.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55559.jpg",Sideshow Bob Roberts	
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E05%20-%20El%20Regreso%20de%20Bob%20Pati__o.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55560.jpg",La casa-árbol del terror V
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E06%20-%20Especial_de_noche_de_brujas_V.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55561.jpg",La novia de Bart
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E07%20-%20Lisa_y_los_deportes.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55562.jpg",Lisa sobre hielo
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E08%20-%20La_novia_de_Bart.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55563.jpg",Homer Badman
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E09%20-%20Homero_el_malo.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55564.jpg",Abuelo contra insuficiencia sexual
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E10%20-%20El_abuelo_y_la_ineficiencia_rom_ntica.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55565.jpg",Miedo a volar
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E11%20-%20Miedo_a_volar.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55566.jpg",Homero el grande
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E12%20-%20Homero_el_grande.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55567.jpg",Y Maggie hace tres
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E13%20-%20Y_con_Maggie_somos_tres.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55568.jpg",El cometa de Bart
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E14%20-%20El_cometa_de_Bart.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55569.jpg",Homie el payaso
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E15%20-%20-_Homie_el_Payaso.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55570.jpg",Bart contra Australia
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E16%20-%20Bart_contra_Australia.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55571.jpg",Homer contra Patty y Selma
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E17%20-%20Homero_contra_Patty_y_Selma.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55572.jpg",Una estrella se quema
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E18%20-%20Una_estrella_estrellada.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55573.jpg",Boda de Lisa
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E19%20-%20La_boda_de_Lisa.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55574.jpg",Dos docenas y un galgos
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E20%20-%20Un_galgo_llamado_Monty.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55575.jpg",La PTA se disuelve
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E21%20-%20Lucha_educativa.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55576.jpg",Ronda Springfield
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E22%20-%20Por_la_ciudad_de_Springfield_2.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55577.jpg",La conexión de Springfield
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E23%20-%20Contacto_en_Springfield.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55578.jpg",Limón de Troya
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E24%20-%20El_lim_n_de_Troya.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55579.jpg",¿Quién le disparó al Sr. Burns? (1)
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S06E25%20-%20oQui_n_mat__al_Sr._Burns_-_Primera_parte.mp4
+
+
+#EXTINF:-1 group-title="Temporada 7"
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55581.jpg",¿Quién le disparó al Sr. Burns? (2)
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E01%20-%20%20Quien%20mato%20al%20Sr%20Burns%202__%20Parte.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55582.jpg",Hombre radiactivo
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E02%20-%20%20El%20hombre%20radioactivo.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55583.jpg",Home Sweet Homediddily-Dum-Doodily
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E03%20-%20%20Hogar%20dulce%20hogarcitijillo.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55584.jpg",Bart vende su alma
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E04%20-%20%20Bart%20vende%20su%20alma.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55585.jpg",Lisa la Vegetariana
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E05%20-%20%20Lisa%20la%20vegetariana.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55586.jpg",La casa-árbol del terror VI
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E06%20-%20%20Especial%20de%20noche%20de%20brujas%20VI.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55587.jpg",Homero gigante
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E07%20-%20%20Homero%20tama__o%20familiar.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55588.jpg",Madre Simpson	
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E08%20-%20%20Mam__%20Simpson.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55589.jpg",Sideshow Bob's Last Gleaming
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E09%20-%20%20La%20__ltima%20carcajada%20de%20Bob%20Pati__o.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55590.jpg",Espectacular episodio 138 de Los Simpson
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E10%20-%20%20El%20Episodio%20Espectacular%20138%20de%20los%20Simpson.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55591.jpg",Marge no seas orgullosa
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E11%20-%20%20El%20beb__%20de%20mam__.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55592.jpg",Equipo Homer
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E12%20-%20%20El%20equipo%20de%20Homero.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55593.jpg",Dos malos vecinos
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E13%20-%20%20El%20mal%20vecino.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55594.jpg",Escenas de la lucha de clases en Springfield
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E14%20-%20%20Lucha%20de%20clases%20en%20Springfield.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55595.jpg",Bart el Fink
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E15%20-%20%20Bart%20el%20sopl__n.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55596.jpg",Lisa la iconoclasta
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E16%20-%20%20Lisa%20la%20iconoclasta.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55597.jpg",Homer the Smithers
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E17%20-%20%20Homero%20Smithers.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55598.jpg",El día que murió la violencia
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E18%20-%20%20El%20d__a%20que%20muri__%20la%20violencia.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55599.jpg",Un pez llamado Selma
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E19%20-%20%20El%20sue__o%20de%20amor%20de%20Selma.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55600.jpg",Bart en el camino
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E20%20-%20%20Bart%20recorre%20el%20mundo.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55601.jpg",22 cortometrajes sobre Springfield
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E21%20-%20%2022%20pel__culas%20cortas%20sobre%20Springfield.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55602.jpg",Abe Simpson enfurecido y su nieto gruñón en: 'La maldición del pez infierno volador'
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E22%20-%20%20Mi%20h__roe%2C%20el%20abuelo.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55603.jpg",Mucho apu por nada
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E23%20-%20%20Y%20d__nde%20est__%20el%20inmigrante_.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55604.jpg",Homerpalooza
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E24%20-%20%20Revent__n.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55605.jpg",Verano de 4 Ft. 2
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S07E25%20-%20%20Yo%20amo%20a%20Lisa.mp4
+
+#EXTINF:-1 group-title="Temporada 8"
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55606.jpg",La casa-árbol del terror VII
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E01%20-%20%20Especial%20de%20noche%20de%20brujas%20VII.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55607.jpg",Solo te mueves dos veces
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E02%20-%20%20Solo%20se%20muda%20dos%20veces.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55608.jpg",El Homero que caen
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E03%20-%20%20Homero%20p__r%20el%20campeonato.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55609.jpg",Quemaduras Quemaduras De Bebé
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E04%20-%20%20Papi%20Burns.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55610.jpg",Bart después del anochecer
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E05%20-%20%20Bart%20de%20noche.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55611.jpg",Un Milhouse dividido
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E06%20-%20%20Milhouse%20dividido.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55612.jpg",La cita de Lisa con densidad
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E07%20-%20%20El%20soso%20romance%20se%20Lisa.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55613.jpg",Huracán neddy
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E08%20-%20%20Huracan%20Neddy.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55614.jpg",El Viaje Misterioso de Nuestro Jomer (The Mysterious Voyage of Our Homer)
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E09%20-%20%20El%20viaje%20misterioso%20de%20nuestro%20Homero.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55615.jpg",Los archivos de Springfield
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E10%20-%20%20Los%20expedientes%20secretos%20de%20Springfield.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55616.jpg",El retorcido mundo de Marge Simpson
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E11%20-%20%20El%20turbio%20y%20oscuro%20mundo%20de%20Marge%20Simpsons.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55617.jpg",Montaña de la locura
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E12%20-%20%20La%20monta__a%20de%20la%20locura.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55618.jpg",Simpsoncalifragilisticexpiala (gruñido molesto) cious
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E13%20-%20%20Simpsoncalifragilisticoespialidoso.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55619.jpg",El show de Itchy & Scratchy & Poochie
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E14%20-%20%20El%20espect__culo%20de%20Tomy%2C%20Daly%20y%20Poochie.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55620.jpg",La fobia de Homero
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E15%20-%20%20La%20fobia%20de%20Homero.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55621.jpg",Hermano de otra serie
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E16%20-%20%20El%20hermano%20de%20otra%20serie.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55622.jpg",Mi hermana, mi niñera
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E17%20-%20%20Ni__era%20y%20hermana.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55623.jpg",Homero contra la 18a Enmienda
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E18%20-%20%20Homero%20contra%20la%20prohibici__n.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55624.jpg",Escuela de grado confidencial
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E19%20-%20%20Amor%20en%20la%20escuela.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55625.jpg",El motín canino
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E20%20-%20%20Mot__n%20canino.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55626.jpg",El viejo y Lisa
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E21%20-%20%20El%20viejo%20y%20la%20Lisa.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55627.jpg",En Marge confiamos
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E22%20-%20%20Preguntale%20a%20Marge.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55628.jpg",Enemigo de Homer
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E23%20-%20%20El%20enemigo%20de%20Homero.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55629.jpg",Escaparate del spin-off de Los Simpson
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E24%20-%20%20El%20repertorio%20de%20refritos%20de%20Los%20Simpsons.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55630.jpg",La guerra secreta de Lisa Simpson
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S08E25%20-%20%20La%20guerra%20secreta%20de%20Lisa%20Simpson.mp4
+
+#EXTINF:-1 group-title="Temporada 9"
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55631.jpg",La ciudad de Nueva York contra Homer Simpson
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E01%20-%20The%20City%20of%20New%20York%20Vs.%20Homer%20Simpson.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55632.jpg",El director y el mendigo
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E02%20-%20Vida%20Prestada%20%28Armando%20Barreda%29.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55633.jpg",Saxofón de Lisa
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E03%20-%20Lisa__s%20Sax.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55634.jpg",La casa-árbol del terror VIII
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E04%20-%20Treehouse%20of%20Horror%20VIII.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55635.jpg",La familia de cartuchos
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E05%20-%20Familia%20peligrosa.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55636.jpg",Bart estrella
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E06%20-%20Bart%20se%20convierte%20en%20estrella.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55637.jpg",Las dos señoras Nahasapeemapetilons
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E07%20-%20Las%20dos%20se__oras%20Nahasapeemapetilon.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55638.jpg",Lisa la escéptica
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E08%20-%20La%20esc__ptica%20Lisa.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55639.jpg",Mordeduras de bienes raíces
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E09%20-%20La%20cruda%20realidad.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55640.jpg",Milagro en Evergreen Terrace
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E10%20-%20Milagro%20en%20la%20Avenida%20Siempreviva.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55641.jpg",Todos cantando, todos bailando
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E11%20-%20Todos%20cantan%2C%20todos%20bailan.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55642.jpg",Bart Carny
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E12%20-%20Bart%20en%20la%20feria.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55643.jpg",La alegría de la secta
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E13%20-%20La%20secta%20Simpson.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55644.jpg",El autobús
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E14%20-%20El%20autob__s%20de%20la%20muerte.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55645.jpg",La última tentación de Krust
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E15%20-%20La%20ultima%20tentaci__n%20de%20Krusty.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55646.jpg",Indemnización con mancuernas
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E16%20-%20El%20bueno%2C%20la%20mala%20y%20el%20feo.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55647.jpg",Lisa los simpson
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E17%20-%20Lisa%20Simpson.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55648.jpg",Este pequeño Wiggy
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E18%20-%20Gorgorito.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55649.jpg",Marea simpson
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E19%20-%20Mi%20querido%20capit__n%20Simpson.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55650.jpg",El problema con trillones
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E20%20-%20Misi__n%20Deducible.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55651.jpg",Edición femenina
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E21%20-%20Lisa%20comentarista.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55652.jpg",Basura de los titanes
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E22%20-%20Basura%20de%20Titanes.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55653.jpg",Rey de la colina
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E23%20-%20El%20rey%20de%20la%20colina.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55654.jpg",Perdió a nuestra Lisa
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E24%20-%20Hemos%20perdido%20a%20nuestra%20Lisa.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55655.jpg",Besos natos
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S09E25%20-%20Marge%20puedo%20dormir%20con%20el%20peligro.mp4
+
+#EXTINF:-1 group-title="Temporada 10"
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55656.jpg",Manteca de la Danza
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S10E01%20-%20%20La%20Sazon%20del%20baile.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55657.jpg",El mago de Evergreen Terrace
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S10E02%20-%20%20El%20mago%20de%20la%20terraza%20Siempreverde.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55658.jpg",Bart la Madre
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S10E03%20-%20%20Bart%20la%20Madre.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55659.jpg",La casa-árbol del terror IX
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S10E04%20-%20%20Especial%20de%20Dia%20de%20Brujas%20IX.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55660.jpg",Cuando le plagas a una estrella
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S10E05%20-%20%20Cuando%20Se%20Anhela%20A%20Una%20Estrella.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55661.jpg",D'oh-in en el viento
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S10E06%20-%20%20-%20D%27oh%20en%20el%20Viento.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55662.jpg",Lisa obtiene una A
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S10E07%20-%20%20Lisa%20Obtiene%20Un%2010.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55663.jpg",Homer Simpson en: 'Problemas de riñón'
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S10E08%20-%20%20Homero%20Simpson%20En%20Problemas%20Renales.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55664.jpg",Mayored a la mafia
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S10E09%20-%20%20Encuentro%20Con%20La%20Mafia.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55665.jpg",Viva Ned Flanders
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S10E10%20-%20%20Viva%20Ned%20Flanders.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55666.jpg",Wild Barts no se puede romper
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S10E11%20-%20%20A%20Un%20Bart%20Salvaje%20Nadie%20Puede%20Destrozarlo.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55667.jpg",Domingo, Domingo Cruddy
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S10E12%20-%20%20Domingo%20Cruel%20Domingo.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55668.jpg",Homero al máximo
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S10E13%20-%20%20Homero%20al%20Maximo.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55669.jpg",Estoy con cupido
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S10E14%20-%20%20Me%20Acompa__a%20Cupido.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55670.jpg",Marge Simpson en: 'Screaming Yellow Honkers'
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S10E15%20-%20%20El%20Submarino%20Amarillo.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55671.jpg",Haz espacio para Lisa
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S10E16%20-%20%20Un%20Espacio%20Para%20Lisa.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55672.jpg",Homerdrive máximo
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S10E17%20-%20%20Homero%20Trabaja%20Demasiado.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55673.jpg",Historias de la Biblia de los Simpson
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S10E18%20-%20%20Historias%20de%20la%20biblia.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55674.jpg",Mamá y arte pop
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S10E19%20-%20%20Arte%20De%20Mam__%20y%20Pap__.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55675.jpg",El viejo y el estudiante de C
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S10E19%20-%20%20Arte%20De%20Mam__%20y%20Pap__.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55676.jpg",Monty no puede comprarme amor
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S10E20%20-%20%20El%20abuelo%20y%20el%20estudiante%20de%20bajas%20calificac.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55677.jpg",Salvaron el cerebro de Lisa
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S10E21%20-%20%20Monty%20no%20puede%20comprar%20mi%20amor.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55678.jpg",Treinta minutos sobre Tokio
+https://archive.org/download/tinaco_20210512/Los%20Simpsons%20-%20S10E23%20-%20%20Treinta%20minutos%20sobre%20Tokio.mp4
+
+
+#EXTINF:-1 group-title="Temporada 11"
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55679.jpg",Más allá de Blunderdome
+http://ia801501.us.archive.org/1/items/06x06EspecialDeNocheDeBrujasV/11x01.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55680.jpg",El pequeño ayudante del hermano
+http://ia801501.us.archive.org/1/items/06x06EspecialDeNocheDeBrujasV/11x02.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55681.jpg",¿Adivina quién viene a criticar la cena?
+http://ia801501.us.archive.org/1/items/06x06EspecialDeNocheDeBrujasV/11x03.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55682.jpg",La casa-árbol del terror X
+http://ia801501.us.archive.org/1/items/06x06EspecialDeNocheDeBrujasV/11x04.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55683.jpg",EIEI- (gruñido molesto)
+http://ia801501.us.archive.org/1/items/06x06EspecialDeNocheDeBrujasV/11x05.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55684.jpg",Hola chicos, hola patrocinador
+http://ia801501.us.archive.org/1/items/06x06EspecialDeNocheDeBrujasV/11x06.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55685.jpg",Ocho portándose mal
+http://ia801501.us.archive.org/1/items/06x06EspecialDeNocheDeBrujasV/11x07.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55686.jpg",Toma a mi esposa, sordidez
+http://ia801501.us.archive.org/1/items/06x06EspecialDeNocheDeBrujasV/11x08.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55687.jpg",Grift de los magos
+http://ia601501.us.archive.org/1/items/06x06EspecialDeNocheDeBrujasV/11x09.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55688.jpg",Pequeña gran mamá
+http://ia801501.us.archive.org/1/items/06x06EspecialDeNocheDeBrujasV/11x10.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55689.jpg",Faith Off
+http://ia601501.us.archive.org/1/items/06x06EspecialDeNocheDeBrujasV/11x11.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55690.jpg",La familia de la mansión
+http://ia801501.us.archive.org/1/items/06x06EspecialDeNocheDeBrujasV/11x12.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55691.jpg",Saddlesore Galactica
+http://ia801501.us.archive.org/1/items/06x06EspecialDeNocheDeBrujasV/11x13.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55692.jpg",Solo otra vez, Natura-Diddily
+http://ia801501.us.archive.org/1/items/06x06EspecialDeNocheDeBrujasV/11x14.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55693.jpg",Misionero: imposible
+http://ia601501.us.archive.org/1/items/06x06EspecialDeNocheDeBrujasV/11x15.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55694.jpg",Pygmoelian
+http://ia801501.us.archive.org/1/items/06x06EspecialDeNocheDeBrujasV/11x16.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55695.jpg",Bart al futuro
+http://ia801501.us.archive.org/1/items/06x06EspecialDeNocheDeBrujasV/11x17.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55696.jpg",Días de vino y D'ohses
+http://ia801501.us.archive.org/1/items/06x06EspecialDeNocheDeBrujasV/11x18.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55697.jpg",Mata al cocodrilo y corre
+http://ia801501.us.archive.org/1/items/06x06EspecialDeNocheDeBrujasV/11x19.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55698.jpg",Último baile de claqué en Springfield
+http://ia801501.us.archive.org/1/items/06x06EspecialDeNocheDeBrujasV/11x20.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55699.jpg",Es una Marge loca, loca, loca, loca
+http://ia601501.us.archive.org/1/items/06x06EspecialDeNocheDeBrujasV/11x21.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55700.jpg",Detrás de la risa
+http://ia801501.us.archive.org/1/items/06x06EspecialDeNocheDeBrujasV/11x22.mp4
+
+#EXTINF:-1 group-title="Temporada 12"
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55701.jpg",La casa-árbol del terror XI
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/12x01%20La%20casa%20del%20terror%20XI.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55702.jpg",Historia de dos Springfields
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/12x02%20El%20Cuento%20de%20Dos%20Springfields.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55703.jpg",Payaso loco amapola
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/12x03%20El%20Payaso%20Demente.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55704.jpg",Lisa la abrazadora de árboles
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/12x04%20Lisa%20y%20su%20Amor%20por%20los%20%C3%81rboles.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55705.jpg",Homero contra la dignidad
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/12x05%20Homero%20Contra%20la%20Dignidad.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55706.jpg",La computadora llevaba zapatos amenazantes
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/12x06%20El%20Computador%20que%20acab%C3%B3%20con%20Homero.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55707.jpg",La gran travesura del dinero
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/12x07%20El%20Gran%20Estafador.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55708.jpg",Sentido de la nieve de Skinner
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/12x08%20Skinner%20y%20su%20Amor%20por%20la%20Nieve.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55709.jpg",HOM
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/12x09%20Homero.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55710.jpg",Mamá Pokey
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/12x10%20Poke%20Mam%C3%A1.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55711.jpg",El peor episodio de la historia
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/12x11%20El%20Peor%20Episodio%20de%20la%20Serie.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55712.jpg",Tenis la amenaza
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/12x12%20Juego%20Limpio.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55713.jpg",Día de los Jackanapes
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/12x13%20El%20D%C3%ADa%20en%20que%20Muri%C3%B3%20la%20Comedia.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55714.jpg",Nuevos niños en el Blecch
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/12x14%20%C3%8Ddolos.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55715.jpg",Homer hambriento hambriento
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/12x15%20Homero%20Idealista.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55716.jpg",Adiós Nerdy
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/12x16%20Los%20Motivos%20del%20Abus%C3%B3n.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55717.jpg",Simpson Safari
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/12x17%20Safari%20Simpson.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55718.jpg",Trilogía del error
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/12x18%20Trilog%C3%ADa%20del%20Error.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55719.jpg",Voy a Praiseland
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/12x19%20Veneraci%C3%B3n%20a%20la%20Homero.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55720.jpg",Hijos de un terrón menor
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/12x20%20Hijos%20de%20Segunda%20Clase.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55721.jpg",Los Simpsons Tall Tales
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/12x21%20Relatos%20Extraordinarios.mp4
+
+#EXTINF:-1 group-title="Temporada 13"
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55722.jpg",Especial de Noche de Brujas
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/13x01%20Especial%20de%20noche%20de%20brujas%20XII.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55723.jpg",El rap de los padres
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/13x02%20Padres%20e%20Hijos.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55724.jpg",Homero el Moe
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/13x03%20La%20taberna%20de%20Homero.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55725.jpg",Hunka hunka arde en el amor
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/13x04%20El%20Se%C3%B1or%20Burns%20se%20Enamora.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55726.jpg",Los años del error
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/13x05%20Recuerdos%20de%20Infancia.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55727.jpg",Ella de poca fe
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/13x06%20Lisa%20de%20Poca%20Fe.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/6101717.jpg",Pelea en la familia
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/13x07%20Alboroto%20en%20la%20Familia.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55729.jpg",Dulces y Sour Marge
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/13x08%20La%20Agridulce%20Marge.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55730.jpg",Mandíbulas cerradas con cable
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/13x09%20Mand%C3%ADbula%20Bien%20Cerrada.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55731.jpg",Propuesta medio decente
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/13x10%20Una%20Proposici%C3%B3n%20un%20Poco%20Indecorosa.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55732.jpg",Bart quiere lo que quiere
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/13x11%20Bart%20se%20Enamora.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55733.jpg",La última pistola del oeste
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/13x12%20El%20ultimo%20Vaquero%20Del%20Oeste.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55734.jpg",El viejo y la llave
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/13x13%20Cuentos%20del%20dominio%20p%C3%BAblico.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55735.jpg",Cuentos del dominio público
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/13x14%20El%20viejo%20y%20el%20amargo.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55736.jpg",Échale la culpa a Lisa
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/13x15%20La%20culpa%20es%20de%20Lisa.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55737.jpg",Fin de semana en Burnsie's
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/13x16%20Un%20fin%20de%20semana%20con%20Burns.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55738.jpg",Gump Roast
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/13x17%20Homenaje%20a%20Homero.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55739.jpg",Estoy furioso amarillo
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/13x18%20Estoy%20furioso.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55740.jpg",El Apu más dulce
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/13x19%20El%20Dulce%20Apu.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55741.jpg",Niña de los diez grandes
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/13x20%20La%20peque%C3%B1a%20Lisa%20y%20los%20Diez%20Grandes.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55742.jpg",El juego de freír
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/13x21%20El%20juego%20de%20la%20muerte.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55743.jpg",Papá tiene una insignia nueva
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/13x22%20Pap%C3%A1%20tiene%20una%20placa%20nueva.mp4
+
+#EXTINF:-1 group-title="Temporada 14"
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55744.jpg",La casa-árbol del terror XIII
+http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x01%20La%20Casa%20del%20Horror%20de%20Los%20Simpson%20XIII.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55745.jpg",Cómo pasé mis vacaciones de Strummer
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x02%20Como%20Pase%20Mis%20Vacaciones%20de%20Verano.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55746.jpg",Bart contra Lisa contra el tercer grado
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x03%20Bart%20Contra%20Lisa%20Contra%20el%20Tercer%20A%C3%B1o.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55747.jpg",Marge grande
+http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x04%20Las%20Curvas%20de%20Marge.mp4
+#EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55748.jpg",Refugio Helter
 http://ia601506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x05%20Un%20Nuevo%20Hogar.mp4
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55749.jpg",El detective del gran piojo
 http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x06%20El%20Gran%20Detective%20Criminal.mp4
@@ -34,6 +657,7 @@ http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x20%20Detengan
 http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x21%20La%20Guerra%20De%20Bart.mp4
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55765.jpg",Moe Baby Blues
 http://ia801506.us.archive.org/9/items/12x20H1j0sD3S3gund4Cl4s3/14x22%20Moe%20Se%20Convierte%20En%20Ni%C3%B1era.mp4
+
 
 #EXTINF:-1 group-title="Temporada 15"
 #EXTINF:-1 tvg-logo="https://artworks.thetvdb.com/banners/episodes/71663/55766.jpg",La casa-árbol del terror XIV
